@@ -29,12 +29,13 @@ The full investigation report can be read [here]()
 ### Business Impact
 
 A detailed analysis on business impact can be read [here]()
+
 ### Credit
 This is part three of a four part investigation
 
-Part 1: [Port of Entry]()
-Part 2: [Cargo Hold]()
-Part 3: Bridge Takeover
+Part 1: [Port of Entry]() <br>
+Part 2: [Cargo Hold]() <br>
+Part 3: Bridge Takeover <br>
 Part 4: Dead in the water (wip)
 
 Thank you Mohammed A for creating this series. 

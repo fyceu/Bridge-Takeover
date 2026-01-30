@@ -1,7 +1,7 @@
 # Bridge Takeover
 
 <p align="center"> 
-  <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/3e96dc65-c744-4eef-8938-0c62a1113c15" />
+  <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/3e96dc65-c744-4eef-8938-0c62a1113c15" />
 </p>
 
 ## Incident Brief

@@ -16,19 +16,28 @@
 The full investigation report can be read [here]()
 
 ## Tech Stack 
+<img align="left" width="50" height="50" alt="azure" src="https://github.com/user-attachments/assets/fd2866b6-d2fa-4e61-bf55-0b20d63fca5e" />
+<img align="left" width="50" height="50" alt="icons8-windows-defender-48" src="https://github.com/user-attachments/assets/41507be1-eadc-440c-b577-ccbf835e91e3" />
+<img align="left" width="50" height="50" alt="windows logo" src="https://github.com/user-attachments/assets/5b714048-8f2e-4753-b68a-7aa699b5ef38" />
+<img align="left" width="50" height="50" alt="KQL" src="https://github.com/user-attachments/assets/7e9d871a-0391-43be-a826-08486ef1d562" />
+<img align="left" width="50" height="50" alt="virusTotal" src="https://github.com/user-attachments/assets/f3d7cb97-d890-4458-abbb-fd29cde3d7a9" />
+<br clear="left">
+
+- Microsoft Azure
+- Microsoft Defender for Endpoint
+- Windows 11
+- KQL
+- VirusTotal
+- AbuseIPDB
 
 ## Executive Summary
 Incident ID: INC0003-2025-1124 <br>
 Severity: Critical <br>
-Status: Resolved <br> 
+Status: Ongoing <br> 
 Analyst Assigned: `Fasi Sika` <br> 
+
 ### Key Findings
-
-The full investigation report can be read [here]() 
-### Immediate Response
-### Business Impact
-
-A detailed analysis on business impact can be read [here]()
+The full investigation report can be read [here]()
 
 ### Credit
 This is part three of a four part investigation

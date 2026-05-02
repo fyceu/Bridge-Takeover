@@ -3,11 +3,9 @@ To see my threat hunting methodology, please jump ahead to [Appendix C: CTF Inve
 1. Incident Overview
 2. Root Cause Analysis
 3. Threat Actor Timeline
-4. Response and Recovery Strategy
+4. Security Recommendations
 	1. Immediate Response
 	2. Containment
-	3. Eradication
-	4. Recovery
 5. Business Impact
 	1. Shareholders
 	2. Business Partners

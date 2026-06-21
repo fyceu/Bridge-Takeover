@@ -1,20 +1,20 @@
 To see my threat hunting methodology, please jump ahead to [Appendix C: CTF Investigation]()
 ## Table of Contents
-1. Incident Overview
-2. Root Cause Analysis
-3. Threat Actor Timeline
-4. Security Recommendations
+1. [Incident Overview](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#incident-overview)
+2. [Root Cause Analysis](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#root-cause-analysis)
+3. [Threat Actor Timeline](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#threat-actor-timeline)
+4. [Security Recommendations](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#security-recommendations)
 	1. Immediate Response
 	2. Containment
-5. Business Impact
+5. [Business Impact](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#business-impact)
 	1. Shareholders
 	2. Business Partners
 	3. Employees
 	4. Customers
-6. Appendix A: Indicators of Compromise (IOCs)
-7. Appendix B: MITRE ATT&CK Mapping
-8. Appendix C: CTF Investigation
-9. Appendix D: CTF Flags
+6. [Appendix A: Indicators of Compromise (IOCs)](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#appendix-a-indicators-of-compromise-iocs)
+7. [Appendix B: MITRE ATT&CK Mapping](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#appendix-b-mitre-attck-mapping)
+8. [Appendix C: CTF Investigation](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#appendix-c-ctf-investigation)
+9. [Appendix D: CTF Flags](https://github.com/fyceu/Bridge-Takeover/blob/main/Investigation%20Report.md#appendix-d-ctf-flags)
 
 ---
 ## Incident Overview
@@ -105,21 +105,6 @@ Timestamp: `2025-11-25T05:55:54.8585250Z` <br>
 The threat actor executed targeted Chrome browser credential theft using Mimikatz's DPAPI module against the local user's Chrome login data
 
 ## Security Recommendations
-### Immediate Response
-Upon confirmation of unauthorized access, lateral movement, and active C2 communication, incident response procedures were initiated. Affected systems and accounts were identified, leadership was notified, and forensic preservation began on the impacted endpoints. 
-
-Identified Systems: 
--  `azuki-sl`
-- `azuki-adminpc`
-
-Identified accounts:
-- `kenji.sato`
-- `yuki.tanaka`
-- `yuki.tanaka2`
-
-
-## Security Recommendations
-
 Given that the broader investigation remains active, the following are recommended actions to limit further attacker access and contain ongoing risk in the environment. These should be implemented immediately and revisited as additional findings are confirmed.
 
 ### Immediate Response
